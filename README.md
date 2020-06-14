@@ -1,7 +1,7 @@
 # Pytorch Practice
 
 ## Intro-to-Pytorch
-	* [Tensors in Pytorch](https://github.com/fenneccat/pytorch-tutorial/blob/master/Intro-to-Pytorch/Part%201%20-%20Tensors%20in%20PyTorch%20(Exercises%29.ipynb)
+	* [Tensors in Pytorch](./Intro-to-Pytorch/%28Exercises%29.ipynb)
 	* [Neural Networks in Pytorch](https://github.com/fenneccat/pytorch-tutorial/blob/master/Intro-to-Pytorch/Part%202%20-%20Neural%20Networks%20in%20PyTorch%20(Exercises%29.ipynb)
 	* [Training Neural Networks](https://github.com/fenneccat/pytorch-tutorial/blob/master/Intro-to-Pytorch/Part%203%20-%20Training%20Neural%20Networks%20(Exercises%29.ipynb)
 	* [Fashion-MNIST](https://github.com/fenneccat/pytorch-tutorial/blob/master/Intro-to-Pytorch/Part%204%20-%20Fashion-MNIST%20(Exercises%29.ipynb)
