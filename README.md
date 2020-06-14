@@ -9,4 +9,6 @@
 - [Saving and Loading Models](<https://github.com/fenneccat/pytorch-tutorial/blob/master/Intro-to-Pytorch/Part%206%20-%20Saving%20and%20Loading%20Models.ipynb>)
 - [Loading Image Data](<https://github.com/fenneccat/pytorch-tutorial/blob/master/Intro-to-Pytorch/Part%207%20-%20Loading%20Image%20Data%20(Exercises%29.ipynb>)
 - [Transfer Learning (ResNet)](<https://github.com/fenneccat/pytorch-tutorial/blob/master/Intro-to-Pytorch/Part%207%20-%20Loading%20Image%20Data%20(Exercises%29.ipynb>)
-- [Transfer Learning (VGGNet)](<https://github.com/fenneccat/pytorch-tutorial/blob/master/Intro-to-Pytorch/Transfer_Learning_Exercise.ipynb>)
+
+## Pytorch-Technique
+- [Transfer Learning (VGGNet)](<https://github.com/fenneccat/pytorch-tutorial/blob/master/pytorch-technique/Transfer_Learning_Exercise.ipynb>)
