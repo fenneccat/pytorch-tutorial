@@ -13,3 +13,4 @@
 ## Pytorch-Technique
 - [Transfer Learning (VGGNet)](<https://github.com/fenneccat/pytorch-tutorial/blob/master/pytorch-technique/Transfer_Learning_Exercise.ipynb>)
 - [weight initialization](<https://github.com/fenneccat/pytorch-tutorial/blob/master/pytorch-technique/weight_initialization_exercise.ipynb>)
+- [Batch Normalization](<https://github.com/fenneccat/pytorch-tutorial/blob/master/pytorch-technique/Batch_Normalization_exercise.ipynb>)
