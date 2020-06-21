@@ -18,3 +18,4 @@
 
 ## Application
 - [Style Transfer](<https://github.com/fenneccat/pytorch-tutorial/blob/master/Application/Style_Transfer_Exercise.ipynb>)
+- [CNN image classification](<https://github.com/fenneccat/pytorch-tutorial/blob/master/Application/cifar10_cnn_augmentation.ipynb>)
