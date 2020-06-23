@@ -32,8 +32,6 @@
 
 ## Application
 - [Style Transfer](<https://github.com/fenneccat/pytorch-tutorial/blob/master/Application/Style_Transfer_Exercise.ipynb>)
-<<<<<<< HEAD
-- [CNN image classification](<https://github.com/fenneccat/pytorch-tutorial/blob/master/Application/cifar10_cnn_augmentation.ipynb>)
-=======
   * Apply style filter to images
->>>>>>> 4cb3cee7075aec8959ea1d58bfef4a8cb8313f47
+- [CNN image classification](<https://github.com/fenneccat/pytorch-tutorial/blob/master/Application/cifar10_cnn_augmentation.ipynb>)
+  [CNN image classification(2)](<https://github.com/fenneccat/pytorch-tutorial/blob/master/Application/cifar10_cnn_exercise.ipynb>)
