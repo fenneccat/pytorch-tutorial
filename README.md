@@ -28,9 +28,10 @@
   * Weight initialization affects to speed to converge and final performance
 - [Batch Normalization](<https://github.com/fenneccat/pytorch-tutorial/blob/master/pytorch-technique/Batch_Normalization_exercise.ipynb>)
   * Normalize the hidden layer inputs to make each layer independent to others.
-- [CNN Visualization](<https://github.com/fenneccat/pytorch-tutorial/blob/master/pytorch-technique/conv_visualization.ipynb>)
-	* Apply four different filters to image and visualize the layer
-
+- CNN visualization
+	- [CNN Visualization](<https://github.com/fenneccat/pytorch-tutorial/blob/master/pytorch-technique/conv_visualization.ipynb>)
+		* Apply four different filters to image and visualize the layer
+	- [Custom Filter](<https://github.com/fenneccat/pytorch-tutorial/blob/master/pytorch-technique/custom_filters.ipynb>)
 
 ## Application
 - [Style Transfer](<https://github.com/fenneccat/pytorch-tutorial/blob/master/Application/Style_Transfer_Exercise.ipynb>)
