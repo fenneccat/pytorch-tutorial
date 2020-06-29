@@ -33,6 +33,8 @@
 		* Apply four different filters to image and visualize the layer
 	- [Custom Filter](<https://github.com/fenneccat/pytorch-tutorial/blob/master/pytorch-technique/custom_filters.ipynb>)
 	- [conv, activation, pooling layer visualization](<http://github.com/fenneccat/pytorch-tutorial/blob/master/pytorch-technique/maxpooling_visualization.ipynb>)
+- AutoEncoder
+	- [simple MLP autoencoder](<http://github.com/fenneccat/pytorch-tutorial/blob/master/pytorch-technique/Simple_Autoencoder_Exercise.ipynb>)
 
 ## Application
 - [Style Transfer](<https://github.com/fenneccat/pytorch-tutorial/blob/master/Application/Style_Transfer_Exercise.ipynb>)
