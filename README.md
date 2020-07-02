@@ -37,6 +37,7 @@
 	- [simple MLP autoencoder](<http://github.com/fenneccat/pytorch-tutorial/blob/master/pytorch-technique/Simple_Autoencoder_Exercise.ipynb>)
 	- [Convolutional autoencoder](<http://github.com/fenneccat/pytorch-tutorial/blob/master/pytorch-technique/Convolutional_Autoencoder_Exercise.ipynb>)
 	- [Upsampling](<http://github.com/fenneccat/pytorch-tutorial/blob/master/pytorch-technique/CNN_Upsampling.ipynb>)
+	- [Denoising](<http://github.com/fenneccat/pytorch-tutorial/blob/master/pytorch-technique/Denoising_Autoencoder_Exercise.ipynb>)
 
 ## Application
 - [Style Transfer](<https://github.com/fenneccat/pytorch-tutorial/blob/master/Application/Style_Transfer_Exercise.ipynb>)
